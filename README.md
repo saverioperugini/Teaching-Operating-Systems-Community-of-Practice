@@ -6,6 +6,11 @@
 | --------------------------- | -------------------------------
 | [http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/](http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/) | CPS 356: Operating Systems/Spring 2019 at University of Dayton |
 
+## Operating Systems Software Demonstrations
+
+| Hyperlink                   | Description                     |
+| --------------------------- | -------------------------------
+| [http://cpudemo.azurewebsites.net/](http://cpudemo.azurewebsites.net/) | An Interactive, Graphical CPU Scheduling Simulator for Teaching Operating Systems |
 
 ## Operating Systems Books of Interest
 
