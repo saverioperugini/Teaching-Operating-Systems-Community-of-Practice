@@ -1,0 +1,37 @@
+# from CCSC 2018 tutorial # 16 e-mail address; there were actually 17 attendees
+
+irwinke@wssu.edu,
+sfoley@uwlax.edu,
+lillethd@seattleu.edu,
+jae@cs.columbia.edu,
+jwmcguffee@gmail.com,
+gakawell@samford.edu,
+aberardinelli@mercyhurst.edu,
+backman@bvu.edu,
+jgeisler@cse.taylor.edu,
+wrightj@juniata.edu,
+bcdixon@csuchico.edu,
+tarzia@northwestern.edu,
+zinkus@cs.jhu.edu,
+malek.smaoui@kaust.edu.sa,
+andersm2@union.edu,
+jblanch@cise.ufl.edu
+
+
+
+# from CCSC 2018 tutorial
+alnaelis@uwstout.edu,
+smoussavi@massbay.edu,
+jlehman@huntington.edu,
+tsoma@ic.edu,
+chunwesley@foothill.edu,
+jrauff@millikin.edu,
+blu@sbuniv.edu,
+thalelespier@mnu.edu,
+lij@hood.edu,
+dllargent@bsu.edu
+
+# other
+david.toth@centre.edu
+
+skiadas@hanover.edu
