@@ -1,25 +1,24 @@
 # Operating-Systems-Working-Group
-Operating Working Group
 
-# Operating Systems Courses of Interest
+## Operating Systems Courses of Interest
 
 | Hyperlink                   | Description                     |
 | --------------------------- | -------------------------------
 | http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/ | CPS 356: Operating Systems/Spring 2019 at University of Dayton |
 
 
-# Operating Systems Books of Interest
+## Operating Systems Books of Interest
 
 | Hyperlink                   | Description                     |
 | --------------------------- | -------------------------------
 
-# Other Operating Systems Related Links
+## Other Operating Systems Related Links
 
 | Hyperlink                   | Description                     |
 | --------------------------- | -------------------------------
 | https://sites.udayton.edu/operatingsystems/ | Developing a Contempory Operating Systems Course Project Page |
 
-# Work Group Members and Contact Information
+## Work Group Members and Contact Information
 
 | Name                   | Position                  | Department                       | Institution                | E-mail            | Webpage                      |
 | ---------------------- | ------------------------- | -------------------------------- | -------------------------- | ----------------- | ---------------------------- |
