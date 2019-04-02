@@ -1,7 +1,7 @@
 # Work Group Members and Contact Information
 
-| Name | Position | Department | Institution | E-mail | Webpage |
-| ---- | -------- | ---------- | ----------- | ------ | ------- |
+| Name                   | Position                  | Department                       | Institution                | E-mail            | Webpage                      |
+| ---------------------- | ------------------------- | -------------------------------- | -------------------------- | ----------------- | ---------------------------- |
 Saleh M. Alnaeli | alnaelis@uwstout.edu |
 Matthew Anderson | andersm2@union.edu |
 Nathan Backman | backman@bvu.edu |
