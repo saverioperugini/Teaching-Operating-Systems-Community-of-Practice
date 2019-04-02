@@ -4,7 +4,7 @@
 
 | Hyperlink                   | Description                     |
 | --------------------------- | -------------------------------
-| http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/ | CPS 356: Operating Systems/Spring 2019 at University of Dayton |
+| [http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/](http://perugini.cps.udayton.edu/teaching/courses/Spring2019/cps356/) | CPS 356: Operating Systems/Spring 2019 at University of Dayton |
 
 
 ## Operating Systems Books of Interest
@@ -16,7 +16,7 @@
 
 | Hyperlink                   | Description                     |
 | --------------------------- | -------------------------------
-| https://sites.udayton.edu/operatingsystems/ | Developing a Contempory Operating Systems Course Project Page |
+| [https://sites.udayton.edu/operatingsystems/](https://sites.udayton.edu/operatingsystems/) | Developing a Contempory Operating Systems Course Project Page |
 
 ## Work Group Members and Contact Information
 
@@ -42,7 +42,7 @@
 | Baochuan Lu | | | | blu@buniv.edu  | |
 | James McGuffee | | | | jwmcguffee@gmail.com  | |
 | Shamsi Moussavi | | | | smoussavi@massbay.edu  | |
-| Saverio Perugini  | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | http://academic.udayton.edu/SaverioPerugini/  | 
+| Saverio Perugini  | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | [http://academic.udayton.edu/SaverioPerugini/](http://academic.udayton.edu/SaverioPerugini/)  | 
 | Jim Rauft | | | | jrauff@millikin.edu  | |
 | Charilaos Skiadas | | | | skiadas@hanover.edu  | |
 | Malek Smaoui | | | | malek.smaoui@kaust.edu.sa  | |
