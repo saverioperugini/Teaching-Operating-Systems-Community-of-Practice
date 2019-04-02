@@ -22,7 +22,7 @@ Dave Lillethun | lillethd@seattleu.edu |
 Baochuan Lu | blu@buniv.edu |
 James McGuffee | jwmcguffee@gmail.com |
 Shamsi Moussavi | smoussavi@massbay.edu |
-Saverio Perugini | Associate Professor | Department of Computer Science | University of Dayton | saverio@udayton.edu | http://academic.udayton.edu/SaverioPerugini/ |
+Saverio Perugini         | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | http://academic.udayton.edu/SaverioPerugini/ |
 Jim Rauft | jrauff@millikin.edu |
 Charilaos Skiadas | skiadas@hanover.edu |
 Malek Smaoui | malek.smaoui@kaust.edu.sa |
