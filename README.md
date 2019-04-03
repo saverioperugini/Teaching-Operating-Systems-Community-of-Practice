@@ -1,4 +1,4 @@
-# Operating-Systems-Working-Group
+# Teaching Operating Systems Community of Practice
 
 ## Operating Systems Courses of Interest
 
