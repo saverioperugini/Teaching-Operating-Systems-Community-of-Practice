@@ -9,7 +9,7 @@
 ## Operating Systems Software Demonstrations
 
 | Hyperlink                   | Description                     |
-| --------------------------- | -------------------------------
+| --------------------------- | ------------------------------- |
 | [http://cpudemo.azurewebsites.net/](http://cpudemo.azurewebsites.net/) | An Interactive, Graphical CPU Scheduling Simulator for Teaching Operating Systems |
 
 ## Operating Systems Books of Interest
@@ -20,7 +20,7 @@
 ## Other Operating Systems Related Links
 
 | Hyperlink                   | Description                     |
-| --------------------------- | -------------------------------
+| --------------------------- | ------------------------------- |
 | [https://sites.udayton.edu/operatingsystems/](https://sites.udayton.edu/operatingsystems/) | Developing a Contempory Operating Systems Course Project Page |
 
 ## Work Group Members and Contact Information
