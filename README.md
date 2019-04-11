@@ -15,7 +15,7 @@
 ## Operating Systems Books of Interest
 
 | Hyperlink                   | Description                     |
-| --------------------------- | -------------------------------
+| --------------------------- | ------------------------------- |
 
 ## Other Operating Systems Related Links
 
