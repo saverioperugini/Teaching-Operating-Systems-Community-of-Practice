@@ -1,4 +1,4 @@
-# Work Group Members and Contact Information
+## Community of Practice Members and Contact Information
 
 | Name                   | Position                  | Department                       | Institution                | E-mail            | Webpage                      |
 | ---------------------- | ------------------------- | -------------------------------- | -------------------------- | ----------------- | ---------------------------- |
@@ -7,7 +7,9 @@
 | Nathan Backman | | | | backman@bvu.edu  | |
 | Angela Berardinelli | | | | aberardinelli@mercyhurst.edu  | |
 | Jeremiah Blanchard | | | | jblanch@cise.ufl.edu  | |
+| Li-Chiou Chen | | | | lchen@pace.edu  | |
 | Wesley Chun | | | | chunwesley@foothill.edu  | |
+| Andreea Cotoranu | | | | acotoranu@pace.edu  | |
 | Bryan Dixon | | | | bcdixon@csuchico.edu  | |
 | Samantha Foley | | | | sfoley@uwlax.edu  | |
 | Jonathan Geisler | | | | jgeisler@cse.taylor.edu  | |
@@ -22,11 +24,12 @@
 | Baochuan Lu | | | | blu@buniv.edu  | |
 | James McGuffee | | | | jwmcguffee@gmail.com  | |
 | Shamsi Moussavi | | | | smoussavi@massbay.edu  | |
-| Saverio Perugini  | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | http://academic.udayton.edu/SaverioPerugini/  | 
+| Saverio Perugini  | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | [http://academic.udayton.edu/SaverioPerugini/](http://academic.udayton.edu/SaverioPerugini/)  | 
 | Jim Rauft | | | | jrauff@millikin.edu  | |
 | Charilaos Skiadas | | | | skiadas@hanover.edu  | |
 | Malek Smaoui | | | | malek.smaoui@kaust.edu.sa  | |
 | Takako Soma | | | | tsoma@ic.edu  | |
+| Paul Talaga | | | | talagap@uindy.edu  | |
 | Steve Tarzia | | | | tarzia@northwestern.edu  | |
 | David M. Toth | | | | david.toth@centre.edu  | |
 | John Wright | | | | wrightj@juniata.edu  | |
