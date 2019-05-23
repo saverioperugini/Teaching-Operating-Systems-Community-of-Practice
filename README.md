@@ -16,6 +16,7 @@
 
 | Hyperlink                   | Description                     |
 | --------------------------- | ------------------------------- |
+| []()                        | ... |
 
 ## Other Operating Systems Related Links
 
@@ -23,7 +24,7 @@
 | --------------------------- | ------------------------------- |
 | [https://sites.udayton.edu/operatingsystems/](https://sites.udayton.edu/operatingsystems/) | Developing a Contempory Operating Systems Course Project Page |
 
-## Work Group Members and Contact Information
+## Community of Practice Members and Contact Information
 
 | Name                   | Position                  | Department                       | Institution                | E-mail            | Webpage                      |
 | ---------------------- | ------------------------- | -------------------------------- | -------------------------- | ----------------- | ---------------------------- |
@@ -32,6 +33,8 @@
 | Nathan Backman | | | | backman@bvu.edu  | |
 | Angela Berardinelli | | | | aberardinelli@mercyhurst.edu  | |
 | Jeremiah Blanchard | | | | jblanch@cise.ufl.edu  | |
+| Li-Chiou Chen | | | | lchen@pace.edu  | |
+| Andreea Cotoranu | | | | acotoranu@pace.edu  | |
 | Wesley Chun | | | | chunwesley@foothill.edu  | |
 | Bryan Dixon | | | | bcdixon@csuchico.edu  | |
 | Samantha Foley | | | | sfoley@uwlax.edu  | |
@@ -52,6 +55,7 @@
 | Charilaos Skiadas | | | | skiadas@hanover.edu  | |
 | Malek Smaoui | | | | malek.smaoui@kaust.edu.sa  | |
 | Takako Soma | | | | tsoma@ic.edu  | |
+| Paul Talaga | | | | talagap@uindy.edu  | |
 | Steve Tarzia | | | | tarzia@northwestern.edu  | |
 | David M. Toth | | | | david.toth@centre.edu  | |
 | John Wright | | | | wrightj@juniata.edu  | |
