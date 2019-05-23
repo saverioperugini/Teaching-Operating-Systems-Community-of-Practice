@@ -34,8 +34,8 @@
 | Angela Berardinelli | | | | aberardinelli@mercyhurst.edu  | |
 | Jeremiah Blanchard | | | | jblanch@cise.ufl.edu  | |
 | Li-Chiou Chen | | | | lchen@pace.edu  | |
-| Andreea Cotoranu | | | | acotoranu@pace.edu  | |
 | Wesley Chun | | | | chunwesley@foothill.edu  | |
+| Andreea Cotoranu | | | | acotoranu@pace.edu  | |
 | Bryan Dixon | | | | bcdixon@csuchico.edu  | |
 | Samantha Foley | | | | sfoley@uwlax.edu  | |
 | Jonathan Geisler | | | | jgeisler@cse.taylor.edu  | |
