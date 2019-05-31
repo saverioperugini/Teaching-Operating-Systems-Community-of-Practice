@@ -47,7 +47,7 @@
 | Jeff Lehman | | | | jlehman@huntington.edu  | |
 | Jiang Li | | | | lij@hood.edu  | |
 | Dave Lillethun | | | | lillethd@seattleu.edu  | |
-| Baochuan Lu | | | | blu@buniv.edu  | |
+| Baochuan Lu | Professor | Computer and Information Department | Southwest Baptist University | blu@buniv.edu  | |
 | James McGuffee | Professor and Dean | School of Sciences, Math/CS Dept | Christian Brothers University (Memphis, TN) | jwmcguffee@gmail.com  | http://facstaff.cbu.edu/jmcguff1/ |
 | Shamsi Moussavi | | | | smoussavi@massbay.edu  | |
 | Saverio Perugini  | Associate Professor        | Department of Computer Science   | University of Dayton     | saverio@udayton.edu | [http://academic.udayton.edu/SaverioPerugini/](http://academic.udayton.edu/SaverioPerugini/)  | 
