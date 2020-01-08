@@ -37,6 +37,7 @@
 | Wesley Chun | | | | chunwesley@foothill.edu  | |
 | Andreea Cotoranu | | | | acotoranu@pace.edu  | |
 | Bryan Dixon | | | | bcdixon@csuchico.edu  | |
+| Gabriel J. Ferrer | | | | ferrer@hendrix.edu  | |
 | Samantha Foley | | | | sfoley@uwlax.edu  | |
 | Jonathan Geisler | | | | jgeisler@cse.taylor.edu  | |
 | Teresa Hale-Lespier | | | | thalelespier@mnu.edu  | |
